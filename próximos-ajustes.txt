@@ -1,0 +1,7 @@
+Próximos ajustes del proyecto
+
+1) Pasar todo el código a la estructura MVC.
+2) Crear la función para recuperar la contraseña.
+3) Mejorar el diseño en la parte del usuário. 
+4) Crear el módulo de configuraciones
+4) Crear el módulo de perfil
